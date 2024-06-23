@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https;//YooDaewhan.github.io/React-tictactoe-deploy/static/css/main.7b60ec51.css",
+    "main.js": "/https;//YooDaewhan.github.io/React-tictactoe-deploy/static/js/main.d9a8a60c.js",
+    "static/js/453.ad0e490e.chunk.js": "/https;//YooDaewhan.github.io/React-tictactoe-deploy/static/js/453.ad0e490e.chunk.js",
+    "index.html": "/https;//YooDaewhan.github.io/React-tictactoe-deploy/index.html",
+    "main.7b60ec51.css.map": "/https;//YooDaewhan.github.io/React-tictactoe-deploy/static/css/main.7b60ec51.css.map",
+    "main.d9a8a60c.js.map": "/https;//YooDaewhan.github.io/React-tictactoe-deploy/static/js/main.d9a8a60c.js.map",
+    "453.ad0e490e.chunk.js.map": "/https;//YooDaewhan.github.io/React-tictactoe-deploy/static/js/453.ad0e490e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b60ec51.css",
+    "static/js/main.d9a8a60c.js"
+  ]
+}
